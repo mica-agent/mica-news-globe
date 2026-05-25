@@ -1,0 +1,11 @@
+{
+  "extension": ".rss-globe",
+  "badge": "GLB",
+  "defaultTitle": "RSS Globe",
+  "dependencies": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"
+    ],
+    "styles": []
+  }
+}

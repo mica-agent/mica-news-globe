@@ -1,0 +1,8 @@
+{
+  "canvasRoot": "canvas",
+  "canvasClass": "canvas",
+  "template": "dgx-spark-local",
+  "pinned": [
+    "README.md"
+  ]
+}
