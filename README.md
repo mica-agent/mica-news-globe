@@ -2,6 +2,8 @@
 
 A 3D interactive globe that visualizes global news stories as markers on Earth's surface. Built as a Mica card class using Three.js for WebGL rendering.
 
+<img width="3448" height="2516" alt="news-globe" src="https://github.com/user-attachments/assets/56f0bd7f-0ca5-40e1-9379-ec36ef8f8e1b" />
+
 ## Overview
 
 The RSS Globe card fetches news from major RSS feeds (BBC, CNN, Reuters, Al Jazeera, TechCrunch, The Guardian), maps each story to a geographic position, and renders them as colored markers on a rotating 3D globe. Click any marker to read the headline and source.
